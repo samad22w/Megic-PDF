@@ -1,6 +1,5 @@
 # (Your full code here...)
 import gradio as gr
-import gradio as gr
 import fitz  # PyMuPDF
 from pdf2image import convert_from_path
 import pytesseract
